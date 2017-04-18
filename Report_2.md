@@ -1,5 +1,5 @@
 
-##Report 2
+#Report 2
 ```
 This week we did 3 main mini projects using Python and Bash.
 ```
