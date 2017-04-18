@@ -1,3 +1,4 @@
+#################################This is a file cited from Instructor.#######################################################
 #!/usr/bin/python2
 
 import sys  #one can use argparse for versatile function of argument parsing
