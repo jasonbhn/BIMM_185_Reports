@@ -13,7 +13,6 @@ So let's break it down into essential knowledge on the translatability mechanism
 ```
 ## Translatability and its measurement:
 ```
-_𝐶𝑈𝐼_𝑔,𝑖_=_𝑐=1_64__𝑞_𝑔,𝑖__𝑐__𝑝_𝑔_(𝑐)_
 
 ```
 
